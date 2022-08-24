@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 * Hello guys this stunning Tic Tac Toe
-* this tic tac toe will count player'win 
+* this tic tac toe will count player's win 
 * you can reset a game
 * you can create new game 
 * I hope this game enjoyable for you and your partner 
