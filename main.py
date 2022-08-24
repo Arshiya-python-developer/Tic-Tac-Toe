@@ -334,5 +334,5 @@ button9 = Button(leftFrame,text=" ",font=('Times 26 bold'),height=3,width=8,bg='
 button9.grid(row=3,column=2,sticky=S+N+E+W)
 
 
-# => run our window with tkinter
+
 root.mainloop()
