@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-* Hello guys this stunning Tic Tac Toe
+* Hello guys this is stunning Tic Tac Toe
 * this tic tac toe will count player's win 
 * you can reset a game
 * you can create new game 
